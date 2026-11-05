@@ -2,7 +2,16 @@
 
 Public installer-only distribution for Clairacte, the French professional observation and transcription workspace. Development source remains private in the owner's source repository. Matter data, recordings, credentials and signing secrets are never stored here. As with any Electron binary, distributed application code can be inspected; private source hosting is not an obfuscation guarantee.
 
-## Available now: Mac preview
+## Downloads
+
+| Platform | Installer | Available version |
+| --- | --- | --- |
+| macOS Apple Silicon | [Download for macOS (.dmg)](https://github.com/B3ANQ/Clairacte-Releases/releases/download/v0.6.1-mac-preview/Clairacte-0.6.1-mac-arm64.dmg) | **0.6.1 Mac preview** |
+| Windows x64 | [Download for Windows (.exe)](https://github.com/B3ANQ/Clairacte-Releases/releases/download/v0.5.1-windows-legacy/Clairacte-0.5.1-win-x64.exe) | **0.5.1 — latest verified Windows installer** |
+
+Both downloads are public and require no GitHub login. **Windows 0.6.1 is not available yet.** The older Windows installer does not include the 0.6 updater or 0.6.1 fixes. Its binary is identical to the previously verified 0.5.1 installer; no new build was started.
+
+## Mac preview details
 
 [Download Clairacte 0.6.1 for Apple Silicon](https://github.com/B3ANQ/Clairacte-Releases/releases/download/v0.6.1-mac-preview/Clairacte-0.6.1-mac-arm64.dmg)
 
