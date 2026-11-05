@@ -122,7 +122,7 @@ Keep Ollama configured for local operation. Cloud models and redirects are rejec
 | Model/software downloads and update checks | Internet access; explicit downloads |
 | Opening legal research links | External browser; source access depends on the relevant website |
 
-**No paid transcription account or API key is required.** Local processing uses the user's hardware, storage, time and electricity. GitHub hosting/build services and publisher-signing services are separate from application use and can have their own costs; see [Development](#development).
+**No paid transcription account or API key is required.** Local processing uses the user's hardware, storage, time and electricity. GitHub's hosted builds have [separate usage allowances and potential charges](https://docs.github.com/en/billing/concepts/product-billing/github-actions). Publisher-signing services can also have costs; see [Development](#development).
 
 ## Privacy and data
 
